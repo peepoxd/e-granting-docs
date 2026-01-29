@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(~/.zshrc)",
+      "Bash(source ~/.zshrc)",
+      "Bash(python3:*)",
+      "Bash(ls:*)",
+      "WebFetch(domain:egranting.thaihealth.or.th)",
+      "WebFetch(domain:xn--w3c.thaihealth.or.th)",
+      "WebFetch(domain:w3c.thaihealth.or.th)",
+      "Bash(curl:*)",
+      "Bash(pip3 install:*)"
+    ]
+  },
+  "model": "claude-sonnet-4-5-20250929"
+}
